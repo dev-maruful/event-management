@@ -47,7 +47,7 @@ const Contact = () => {
             </label>
             <textarea
               className="textarea textarea-info textarea-lg w-full"
-              placeholder="Bio"
+              placeholder="message here"
             ></textarea>
           </div>
           <button className="btn btn-info w-36">send message</button>
