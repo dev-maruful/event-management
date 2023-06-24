@@ -73,7 +73,7 @@ const Contact = () => {
           </div>
         </div>
       </div>
-      <div className="text-center mt-auto">
+      <div className="text-center">
         <h3 className="text-3xl font-semibold mb-5">
           Find <span className="text-info">us</span> on
         </h3>
